@@ -21,4 +21,4 @@ Unit of this data set is log2(fpkm+1). For more information about this data, you
 The subtype information for this breast cancer cohort can be downloaded from:
 https://www.cbioportal.org/study/clinicalData?id=brca_tcga_pan_can_atlas_2018
 
-The filtered clinical data downloaded from above can be found in the data folder.
+The filtered clinical data downloaded from the above can be found in the data directory.
